@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JesseJ-Koopman
 - 👀 I’m interested in Game Development, Software Development and a little bit of everything in IT
-- 🌱 I’m currently learning Postgraduate in Information Technology
+- 🌱 I’m currently learning Postgraduate in Information Technology, Completed: Advanced Diploma in IT
 - 💞️ I’m looking to collaborate on <<to be updated soon>>
 - 📫 How to reach me <<to be updated soon>>
 
